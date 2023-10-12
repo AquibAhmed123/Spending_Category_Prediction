@@ -1,16 +1,16 @@
 # Spending Category Prediction Project
 This repository contains a project that focuses on predicting spending categories of customers using classification. The project leverages a dataset with the following column names:
 
-CustomerID
-Gender
-Age
-Annual_Income
-Spending_Score
-Profession
-Work_Experience
-Family Size
-Spending_Category
-Invoice_Number
+1)CustomerID
+2)Gender
+3)Age
+4)Annual_Income
+5)Spending_Score
+6)Profession
+7)Work_Experience
+8)Family Size
+9)Spending_Category
+10)Invoice_Number
 
 ## Overview
 The primary goal of this project is to predict the spending category of customers based on various features. The spending category is a crucial factor for businesses to understand and tailor their marketing and sales strategies. Classification algorithms are used to categorize customers into different spending categories based on historical data.
